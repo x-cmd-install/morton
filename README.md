@@ -1,6 +1,24 @@
----
-owner-repo: jart/morton
-desc:    
----
-
 # morton
+
+
+
+- **Upstream**: <https://github.com/jart/morton>
+- **Homepage**: <>
+- **Latest release**: `` (n/a)
+- **Last commit**: 2024-04-19
+- **License**: ISC
+- **Stars**: 298 · **Forks**: 5 · **Open issues**: 1 · **Contributors**: 1
+
+## Installation
+
+```sh
+x install morton
+```
+
+See <https://x-cmd.com/install/morton> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T10:45:13Z._
